@@ -8,7 +8,7 @@ export const weatherConditions = {
   Clear: {
     color: ['#FBB844', '#8AD4E2'],
     title: 'Sunny',
-    subtitle: 'It is hurting my eyes',
+    subtitle: 'So bright',
     icon: 'weather-sunny',
   },
   Thunderstorm: {
